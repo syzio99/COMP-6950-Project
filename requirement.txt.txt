@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+missingno
+scipy
+statsmodels
+sklearn
+chart_studio
+cufflinks
+plotly
