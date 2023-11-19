@@ -1,5 +1,10 @@
 # CMSC-6950-001-PROJECT
 
+Submitted By:
+Name - Shubham Maurya
+Student ID – 202292659
+Email ID - smaurya@mun.ca
+
 # Impact of COVID-19 Lockdowns on Urban Air Quality: An Exploratory Data Analysis
 
 ## Project Overview
